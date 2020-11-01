@@ -1,3 +1,3 @@
 # hello-world
-My first time using github
-This is actually very cool
+I wanted to try it myself
+i am getting better
